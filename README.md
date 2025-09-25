@@ -290,7 +290,7 @@ A platform to change USDT to INR with QR - based payments
                 <div class="wallet-card">
                     <div class="wallet-title">🟢 USDT TRC-20</div>
                     <div class="qr-container">
-                        <img src="trc20.png" alt="TRC-20QR" width="200" />
+                        <img src="trc20.png" alt="TRC-20QR" width="200" /> 
                             <svg width="180" height="180" viewBox="0 0 180 180">
                                 <rect width="180" height="180" fill="white"/>
                                 <g fill="black">
