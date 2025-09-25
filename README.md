@@ -291,56 +291,7 @@ A platform to change USDT to INR with QR - based payments
                     <div class="wallet-title">🟢 USDT TRC-20</div>
                     <div class="qr-container">
                         <img src="trc20.png" alt="TRC-20QR" width="200" /> 
-                            <svg width="180" height="180" viewBox="0 0 180 180">
-                                <rect width="180" height="180" fill="white"/>
-                                <g fill="black">
-                                    <!-- QR Code pattern for TRC-20 -->
-                                    <rect x="0" y="0" width="20" height="20"/>
-                                    <rect x="20" y="0" width="20" height="20"/>
-                                    <rect x="60" y="0" width="20" height="20"/>
-                                    <rect x="80" y="0" width="20" height="20"/>
-                                    <rect x="120" y="0" width="20" height="20"/>
-                                    <rect x="160" y="0" width="20" height="20"/>
-                                    <rect x="0" y="20" width="20" height="20"/>
-                                    <rect x="80" y="20" width="20" height="20"/>
-                                    <rect x="120" y="20" width="20" height="20"/>
-                                    <rect x="160" y="20" width="20" height="20"/>
-                                    <rect x="0" y="40" width="20" height="20"/>
-                                    <rect x="40" y="40" width="20" height="20"/>
-                                    <rect x="80" y="40" width="20" height="20"/>
-                                    <rect x="120" y="40" width="20" height="20"/>
-                                    <rect x="160" y="40" width="20" height="20"/>
-                                    <rect x="0" y="60" width="20" height="20"/>
-                                    <rect x="40" y="60" width="20" height="20"/>
-                                    <rect x="80" y="60" width="20" height="20"/>
-                                    <rect x="120" y="60" width="20" height="20"/>
-                                    <rect x="160" y="60" width="20" height="20"/>
-                                    <rect x="0" y="80" width="20" height="20"/>
-                                    <rect x="40" y="80" width="20" height="20"/>
-                                    <rect x="80" y="80" width="20" height="20"/>
-                                    <rect x="120" y="80" width="20" height="20"/>
-                                    <rect x="160" y="80" width="20" height="20"/>
-                                    <rect x="0" y="100" width="20" height="20"/>
-                                    <rect x="80" y="100" width="20" height="20"/>
-                                    <rect x="120" y="100" width="20" height="20"/>
-                                    <rect x="160" y="100" width="20" height="20"/>
-                                    <rect x="0" y="120" width="20" height="20"/>
-                                    <rect x="20" y="120" width="20" height="20"/>
-                                    <rect x="60" y="120" width="20" height="20"/>
-                                    <rect x="80" y="120" width="20" height="20"/>
-                                    <rect x="120" y="120" width="20" height="20"/>
-                                    <rect x="160" y="120" width="20" height="20"/>
-                                    <!-- Corner markers -->
-                                    <rect x="0" y="0" width="60" height="60" fill="none" stroke="black" stroke-width="8"/>
-                                    <rect x="120" y="0" width="60" height="60" fill="none" stroke="black" stroke-width="8"/>
-                                    <rect x="0" y="120" width="60" height="60" fill="none" stroke="black" stroke-width="8"/>
-                                    <rect x="20" y="20" width="20" height="20"/>
-                                    <rect x="140" y="20" width="20" height="20"/>
-                                    <rect x="20" y="140" width="20" height="20"/>
-                                </g>
-                            </svg>
-                        </div>
-                    </div>
+                                    <img...>
                     <div class="address-box">
                         TRC-20 Address:<br>
                         TWCtpUaW6dzmgi9B2quh3VoxVUmThNLcxR
