@@ -307,56 +307,7 @@ A platform to change USDT to INR with QR - based payments
                     <div class="wallet-title">🟡 BEP-20 (BSC)</div>
                     <div class="qr-container">
                         <img src="bep20.png" alt="BEP-20QR" width="200" />
-                            <svg width="180" height="180" viewBox="0 0 180 180">
-                                <rect width="180" height="180" fill="white"/>
-                                <g fill="black">
-                                    <!-- QR Code pattern for BEP-20 -->
-                                    <rect x="0" y="0" width="20" height="20"/>
-                                    <rect x="40" y="0" width="20" height="20"/>
-                                    <rect x="60" y="0" width="20" height="20"/>
-                                    <rect x="100" y="0" width="20" height="20"/>
-                                    <rect x="140" y="0" width="20" height="20"/>
-                                    <rect x="160" y="0" width="20" height="20"/>
-                                    <rect x="0" y="20" width="20" height="20"/>
-                                    <rect x="60" y="20" width="20" height="20"/>
-                                    <rect x="100" y="20" width="20" height="20"/>
-                                    <rect x="140" y="20" width="20" height="20"/>
-                                    <rect x="0" y="40" width="20" height="20"/>
-                                    <rect x="20" y="40" width="20" height="20"/>
-                                    <rect x="60" y="40" width="20" height="20"/>
-                                    <rect x="100" y="40" width="20" height="20"/>
-                                    <rect x="140" y="40" width="20" height="20"/>
-                                    <rect x="0" y="60" width="20" height="20"/>
-                                    <rect x="20" y="60" width="20" height="20"/>
-                                    <rect x="60" y="60" width="20" height="20"/>
-                                    <rect x="100" y="60" width="20" height="20"/>
-                                    <rect x="140" y="60" width="20" height="20"/>
-                                    <rect x="0" y="80" width="20" height="20"/>
-                                    <rect x="20" y="80" width="20" height="20"/>
-                                    <rect x="60" y="80" width="20" height="20"/>
-                                    <rect x="100" y="80" width="20" height="20"/>
-                                    <rect x="140" y="80" width="20" height="20"/>
-                                    <rect x="0" y="100" width="20" height="20"/>
-                                    <rect x="60" y="100" width="20" height="20"/>
-                                    <rect x="100" y="100" width="20" height="20"/>
-                                    <rect x="140" y="100" width="20" height="20"/>
-                                    <rect x="0" y="120" width="20" height="20"/>
-                                    <rect x="40" y="120" width="20" height="20"/>
-                                    <rect x="60" y="120" width="20" height="20"/>
-                                    <rect x="100" y="120" width="20" height="20"/>
-                                    <rect x="140" y="120" width="20" height="20"/>
-                                    <rect x="160" y="120" width="20" height="20"/>
-                                    <!-- Corner markers -->
-                                    <rect x="0" y="0" width="60" height="60" fill="none" stroke="black" stroke-width="8"/>
-                                    <rect x="120" y="0" width="60" height="60" fill="none" stroke="black" stroke-width="8"/>
-                                    <rect x="0" y="120" width="60" height="60" fill="none" stroke="black" stroke-width="8"/>
-                                    <rect x="20" y="20" width="20" height="20"/>
-                                    <rect x="140" y="20" width="20" height="20"/>
-                                    <rect x="20" y="140" width="20" height="20"/>
-                                </g>
-                            </svg>
-                        </div>
-                    </div>
+                            <img...>
                     <div class="address-box">
                         BEP-20 Address:<br>
                         0x4d8322883f4bd1f06e246e940efb2cdd5ed708f8
@@ -397,18 +348,4 @@ A platform to change USDT to INR with QR - based payments
                     <h3>💬 Telegram Support</h3>
                     <p>Get instant help from our support team</p>
                     <div class="telegram-qr">
-    <img src="telegram-qr.png" alt="Telegram QR Code" width="150" />
     <p>Scan to message us on Telegram!</p>
-</div>
-                        <svg width="120" height="120" viewBox="0 0 120 120">
-                            <rect width="120" height="120" fill="white"/>
-                            <g fill="#0088cc">
-                                <!-- Telegram QR Code pattern -->
-                                <rect x="0" y="0" width="15" height="15"/>
-                                <rect x="15" y="0" width="15" height="15"/>
-                                <rect x="45" y="0" width="15" height="15"/>
-                                <rect x="75" y="0" width="15" height="15"/>
-                                <rect x="90" y="0" width="15" height="15"/>
-                                <rect x="105" y="0" width="15" height="15"/>
-                                <rect x="0" y="15" width="15" height="15"/>
-                                <rect x="45" y="15" width="15" height="15"/>
